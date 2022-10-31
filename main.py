@@ -25,7 +25,6 @@ def cadastrando():
         s = request.form["senha"]
         return cadastro(n, d, s)
     
-    
 
     
 @calendario.route("/login")
