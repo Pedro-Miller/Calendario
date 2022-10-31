@@ -12,3 +12,6 @@ else:
     cursor.execute("DELETE FROM contas where nome  = '"+limpanome+"'")
                      
 db.commit()
+
+
+
