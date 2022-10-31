@@ -20,7 +20,6 @@ class aluno():
         self.senha = senha
 
 
-
 def checa_existe(dre) :
         db = sqlite3.connect('database.sqlite')
         cursor = db.cursor()
