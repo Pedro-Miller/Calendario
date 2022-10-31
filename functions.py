@@ -45,3 +45,6 @@ def cadastro(nome, dre, senha):
 
 global user 
 user = aluno("","","")
+
+
+
